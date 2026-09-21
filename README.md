@@ -1,7 +1,22 @@
 # NaviSense 🧭
 **AI-Powered Multimodal Mobility Assistant for the Visually Impaired**
 
-> **Notice**: NaviSense is an experimental assistive mobility companion built as a hackathon prototype. It is designed to demonstrate how multimodal AI can aid navigation. It is **NOT** a replacement for a cane, guide dog, or medical/safety-certified mobility aid.
+> **Notice**: NaviSense is an experimental assistive mobility companion built as a hackathon prototype. It is designed to demonstrate how multimodal AI can aid navigation. It is **NOT** a replacement for a cane, guide dog, or medical/safety-certified mobility aid. 
+> 
+> *As a prototype, the on-device ML Kit object detection models may occasionally produce false positives or inaccurate bounding box occupancy ratios. Do not expect flawless or medically reliable perception in all lighting/environmental conditions.*
+
+---
+
+## 📸 Application Screenshots
+
+<div align="center">
+  <img src="docs/images/P_20240922_000624_vHDR_Auto.jpg" width="22%" alt="Listening State" />
+  <img src="docs/images/P_20240922_000629_vHDR_Auto.jpg" width="22%" alt="Destination Confirmation" />
+  <img src="docs/images/P_20240922_000644_vHDR_Auto.jpg" width="22%" alt="Active Navigation" />
+  <img src="docs/images/P_20240922_000649_vHDR_Auto.jpg" width="22%" alt="Obstacle Alert" />
+</div>
+
+*Above: Real application screenshots demonstrating the minimal Light Mode UI, massive typography, live CameraX integration, and spatial bounding box overlays.*
 
 ---
 
@@ -14,7 +29,6 @@ We operate on a strict accessibility philosophy:
 **1. Voice First** | **2. Haptics Second** | **3. Visual UI Third**
 
 ---
-
 ## 🚀 Key Features
 
 ### 🌍 Real-World Autonomy (Zero Fake Data)
