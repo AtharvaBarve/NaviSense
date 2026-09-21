@@ -10,10 +10,10 @@
 ## 📸 Application Screenshots
 
 <div align="center">
-  <img src="docs/images/P_20240922_000624_vHDR_Auto.jpg" width="22%" alt="Listening State" />
-  <img src="docs/images/P_20240922_000629_vHDR_Auto.jpg" width="22%" alt="Destination Confirmation" />
-  <img src="docs/images/P_20240922_000644_vHDR_Auto.jpg" width="22%" alt="Active Navigation" />
-  <img src="docs/images/P_20240922_000649_vHDR_Auto.jpg" width="22%" alt="Obstacle Alert" />
+  <img src="docs/images/1.jpeg" width="22%" alt="Listening State" />
+  <img src="docs/images/2.jpeg" width="22%" alt="Destination Confirmation" />
+  <img src="docs/images/3.jpeg" width="22%" alt="Active Navigation" />
+  <img src="docs/images/4.jpeg" width="22%" alt="Obstacle Alert" />
 </div>
 
 *Above: Real application screenshots demonstrating the minimal Light Mode UI, massive typography, live CameraX integration, and spatial bounding box overlays.*
